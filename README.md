@@ -1,10 +1,14 @@
 # Base brand-kit
 
-This repo contains guide and logos for the Base brand.
+This repo contains a guide, fonts and logos for the Base brand.
 
 ### Guide
 
 Please see [this PDF](guide/guide.pdf) overview.
+
+### Fonts
+
+Located in [/fonts](fonts/).
 
 ### Logos
 
